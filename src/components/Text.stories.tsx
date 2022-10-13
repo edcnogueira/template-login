@@ -6,6 +6,7 @@ export default {
   component: Text,
   args: {
     children: "Lorem ipsum",
+    size: "md",
   },
 } as Meta<TextProps>;
 
